@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items xmlns="https://www.it-academy.by"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="https://www.it-academy.by schema.xsd">
+    <Item>
+        <name>Volvo</name>
+        <description>Coupe</description>
+        <price>2300.160</price>
+        <uniqueNumber>00001</uniqueNumber>
+    </Item>
+    <Item>
+        <name>Mercedes</name>
+        <description>Sedan</description>
+        <price>13000.500</price>
+        <uniqueNumber>00002</uniqueNumber>
+    </Item>
+    <Item>
+        <name>Audi</name>
+        <description>Sedan</description>
+        <price>1360.15</price>
+        <uniqueNumber>00003</uniqueNumber>
+    </Item>
+    <Item>
+        <name>Volkswagen</name>
+        <description>Jeep armored</description>
+        <price>11200.14</price>
+        <uniqueNumber>00004</uniqueNumber>
+    </Item>
+    <Item>
+        <name>Subaru</name>
+        <description>Tachka dlya top pacanov</description>
+        <price>15000.72</price>
+        <uniqueNumber>00005</uniqueNumber>
+    </Item>
+</Items>
